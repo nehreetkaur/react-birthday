@@ -72,10 +72,10 @@ HTML
 
 
 # SCREENSHOT
-![SCREENSHOT](calculator.png)
+![SCREENSHOT](react-birth.png)
 
 # GIT_HUB-REPOSITORY
 [GIT-HUB](https://github.com/nehreetkaur/react-birthday)
 
 # Heroku-Deployed-Link
-[Heroku]()
+[Heroku](https://react-birthday.herokuapp.com/)
